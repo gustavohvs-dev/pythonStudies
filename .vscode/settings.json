@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./2-Associate Module/2-CustomModules/modules",
+        "./2-Associate Module/3-CustomPackages/app"
+    ]
+}
